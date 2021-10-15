@@ -1,1 +1,1 @@
-Elso heti feladatok
+# Első heti feladatok
